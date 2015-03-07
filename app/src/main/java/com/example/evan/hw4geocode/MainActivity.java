@@ -277,11 +277,11 @@ public class MainActivity extends ActionBarActivity implements GoogleMap.OnMapLo
                 LatLngBounds viewport = new LatLngBounds(swBound, neBound);
 
                 // Locate the first location
-                if(i==0) {
+                //if(i==0) {
                     mMap.animateCamera(CameraUpdateFactory.newLatLngBounds(viewport, 0));
                     System.out.println("Zooming to " + lat + ", " + lng);
                     //mMap.animateCamera(CameraUpdateFactory.newLatLng(latLng));
-                }
+                //}
             }
         }
     }
