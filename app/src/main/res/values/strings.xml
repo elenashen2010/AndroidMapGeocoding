@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW4 Geocode</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Strings!</string>
+    <string name="button_send">To maps!</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="find">Find</string>
+    <string name="hint">Enter Address</string>
+</resources>
